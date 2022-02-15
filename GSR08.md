@@ -16,3 +16,9 @@ INSTALLATION
 ➣ pip2 install requests bs4
 
 ➣ git clone https://github.com/Suhail-GSR/Hacker09
+
+➣ cd Hacker09
+
+➣ ls
+
+➣ python2 Suhail
