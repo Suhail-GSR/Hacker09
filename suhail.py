@@ -43,7 +43,7 @@ loc = requests.get('https://ipapi.com/ip_api.php?ip=' + ip, headers={'Referer': 
 def linex():
 	os.system('echo  "\n ======================================\n" | lolcat -a -d 2 -s 50')
 def logo():
-	os.system('echo "\n \n     \n_____       _   _       _ _     \n/  ___|     | | | |     (_) |    \n\ `--. _   _| |_| | __ _ _| |    \n `--. \ | | |  _  |/ _` | | |    \n/\__/ / |_| | | | | (_| | | |____\n\____/ \__,_\_| |_/\__,_|_\_____/\n  \n    ╔═════════════════════════════╗\n    ║ TOOL NAME: { HACKER09 }      ║\n    ║ AUTHOR   : {SUHAIL-GSR}        ║\n    ║ GITHUB   : {Suhail-GSR}        ║\n    ╚═════════════════════════════╝" | lolcat -a -d 2 -s 50')	
+	os.system('echo "\n\n\n_____       _   _       _ _     \n/  ___|     | | | |     (_) |    \n\ `--. _   _| |_| | __ _ _| |    \n `--. \ | | |  _  |/ _` | | |    \n/\__/ / |_| | | | | (_| | | |____\n\____/ \__,_\_| |_/\__,_|_\_____/\n  \n    ╔═════════════════════════════╗\n    ║ TOOL NAME: { HACKER09 }      ║\n    ║ AUTHOR   : {SUHAIL-GSR}        ║\n    ║ GITHUB   : {Suhail-GSR}        ║\n    ╚═════════════════════════════╝" | lolcat -a -d 2 -s 50')	
 
 def main():
 	os.system("clear")
