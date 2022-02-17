@@ -17,7 +17,7 @@ INSTALLATION
 
 ➣ git clone https://github.com/Suhail-GSR/Hacker09
 
-➣ cd Hacker09
+➣ cd hacker09
 
 ➣ ls
 
