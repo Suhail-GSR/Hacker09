@@ -3,7 +3,7 @@
 
 #AUTHOR : SUHAIL-GSR
 #OPEN SOURCE :)
-#NOT MY OWN SCRIPT BROH:)
+
 
 
 try:
@@ -12,7 +12,7 @@ try:
 	from requests.exceptions import ConnectionError
 except ImportError:
 	os.system("pip2 install requests lolcat")
-	os.system("python2 fcpro.py")
+	os.system("python2 Suhail.py")
 
 from os import system
 from time import sleep
