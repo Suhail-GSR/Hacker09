@@ -43,7 +43,7 @@ loc = requests.get('https://ipapi.com/ip_api.php?ip=' + ip, headers={'Referer': 
 def linex():
 	os.system('echo  "\n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" | lolcat -a -d 2 -s 50')
 def logo():
-	os.system('echo " \n\n     ███████ ██    ██ ██   ██  █████  ██ ██\n     ██      ██    ██ ██   ██ ██   ██ ██ ██      \n     ███████ ██    ██ ███████ ███████ ██ ██      \n          ██ ██    ██ ██   ██ ██   ██ ██ ██      \n          ██ ██    ██ ██   ██ ██   ██ ██ ██      \n     ███████  ██████  ██   ██ ██   ██ ██ ███████      \n ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰                                  \n        ╔══❥══════════════════♥═══════╗\n       ║ TOOL NAME: [  GSR01   ]     ║\n        ║ AUTHOR   : [SUHAIL-GSR]     ║\n        ║ GITHUB   : [git.SS S89]     ❣\n        ╚════♥════════════════════❥═══╝" | lolcat -a -d 2 -s 50') 
+	os.system('echo " \n\n     ███████ ██    ██ ██   ██  █████  ██ ██\n     ██      ██    ██ ██   ██ ██   ██ ██ ██      \n     ███████ ██    ██ ███████ ███████ ██ ██      \n          ██ ██    ██ ██   ██ ██   ██ ██ ██      \n          ██ ██    ██ ██   ██ ██   ██ ██ ██      \n     ███████  ██████  ██   ██ ██   ██ ██ ███████      \n ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰                                  \n         ╔══❥══════════════════♥═══════╗\n         ║ TOOL NAME: [  GSR01   ]     ║\n         ║ AUTHOR   : [SUHAIL-GSR]     ║\n         ║ GITHUB   : [git.SS S89]     ❣\n         ╚════♥════════════════════❥═══╝" | lolcat -a -d 2 -s 50') 
 
 def main():
 	os.system("clear")
@@ -143,9 +143,9 @@ def menu():
     print("")
 
     print("")
-    print("\033[92;1m  [1]➤ CRACK WITH AUTO PASS")
+    print("\033[93;1m  [1]➤ CRACK WITH AUTO PASS")
     print("\033[93;1m  [2]➤ CRACK WITH DIGIT PASS")
-    print('\033[91;1m  [0]➤ BACK')
+    print('\033[93;1m  [0]➤ BACK')
     print("")
     menu_option()
     
@@ -179,8 +179,8 @@ def crack1():
 	print("\t\033[93;1m CRACK WITH AUTO PASS")
 	print("")
 	print("\033[94;1m  [1]➤ CRACK PUBLIC ID")
-	print("\033[93;1m  [2]➤ CRACK FOLLOWERS")
-	print("\033[92;1m  [3]➤ CRACK FILE")
+	print("\033[94;1m  [2]➤ CRACK FOLLOWERS")
+	print("\033[94;1m  [3]➤ CRACK FILE")
 	print("")
 	crack_select1()
 	
