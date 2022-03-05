@@ -41,19 +41,19 @@ ip = requests.get('https://api.ipify.org').text.strip()
 loc = requests.get('https://ipapi.com/ip_api.php?ip=' + ip, headers={'Referer': 'https://ip-api.com/', 'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36'}).json()['country_name'].upper()
 	
 def linex():
-	os.system('echo  "print("\033[1;35;40m\n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" | lolcat -a -d 2 -s 50')
+	os.system('echo  "\n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" | lolcat -a -d 2 -s 50')
 def logo():
-	os.system('echo "print("\033[0;37;40m \n\n     ███████ ██    ██ ██   ██  █████  ██ ██\n     ██      ██    ██ ██   ██ ██   ██ ██ ██      \n     ███████ ██    ██ ███████ ███████ ██ ██      \n          ██ ██    ██ ██   ██ ██   ██ ██ ██      \n          ██ ██    ██ ██   ██ ██   ██ ██ ██      \n     ███████  ██████  ██   ██ ██   ██ ██ ███████      \n ▰▰▰▰▰▰▰▰▰▰▰❥▰▰▰▰▰▰▰▰▰▰▰★▰▰▰▰▰▰▰▰✦▰▰▰▰▰▰▰▰▰▰▰▰▰▰                                  \n       ╔══❥══════════════════♥═══════╗\n       ║ TOOL NAME: [  GSR01   ]     ║\n       ║ AUTHOR   : [SUHAIL-GSR]     ║\n       ║ GITHUB   : [git.SS S89]     ❣\n       ╚════♥════════════════════❥═══╝" | lolcat -a -d 2 -s 50') 
+	os.system('echo " \n\n     ███████ ██    ██ ██   ██  █████  ██ ██\n     ██      ██    ██ ██   ██ ██   ██ ██ ██      \n     ███████ ██    ██ ███████ ███████ ██ ██      \n          ██ ██    ██ ██   ██ ██   ██ ██ ██      \n          ██ ██    ██ ██   ██ ██   ██ ██ ██      \n     ███████  ██████  ██   ██ ██   ██ ██ ███████      \n ▰▰▰▰▰▰▰▰▰▰▰❥▰▰▰▰▰▰▰▰▰▰▰★▰▰▰▰▰▰▰▰✦▰▰▰▰▰▰▰▰▰▰▰▰▰▰                                  \n       ╔══❥══════════════════♥═══════╗\n       ║ TOOL NAME: [  GSR01   ]     ║\n       ║ AUTHOR   : [SUHAIL-GSR]     ║\n       ║ GITHUB   : [git.SS S89]     ❣\n       ╚════♥════════════════════❥═══╝" | lolcat -a -d 2 -s 50') 
 
 def main():
 	os.system("clear")
 	logo()
 	print("\t\033[93;1m  ❰❰❰  MAIN MENU  ❱❱❱\x1b[0m")
 	print("")
-	print("\033[92;1m  [1] ➢START CRACK")
-	print("\033[93;1m  [2] ➢HOW TO GET ACCESS TOKEN")
-	print("\033[94;1m  [3] ➢UPDATE TOOL")
-	print("\033[90;1m  [0]➢ EXIT")
+	print("\033[92;1m   [1] ➤ START CRACK")
+	print("\033[93;1m  [2] ➤HOW TO GET ACCESS TOKEN")
+	print("\033[94;1m  [3] ➤ UPDATE TOOL")
+	print("\033[90;1m  [0]➤ EXIT")
 	print("")
 	log_sel()
 	
@@ -143,9 +143,9 @@ def menu():
     print("")
 
     print("")
-    print("\033[92;1m  [1]➢ CRACK WITH AUTO PASS")
-    print("\033[93;1m  [2]➢ CRACK WITH DIGIT PASS")
-    print('\033[91;1m    [0]➢ BACK')
+    print("\033[92;1m  [1]  ➤ CRACK WITH AUTO PASS")
+    print("\033[93;1m  [2] ➤ CRACK WITH DIGIT PASS")
+    print('\033[91;1m    [0] ➤ BACK')
     print("")
     menu_option()
     
@@ -178,9 +178,9 @@ def crack1():
 	print("")
 	print("\t\033[93;1m CRACK WITH AUTO PASS")
 	print("")
-	print("\033[94;1m  [1] CRACK PUBLIC ID")
-	print("\033[93;1m  [2] CRACK FOLLOWERS")
-	print("\033[92;1m  [3] CRACK FILE")
+	print("\033[94;1m  [ 1] ➤ CRACK PUBLIC ID")
+	print("\033[93;1m  [2] ➤ CRACK FOLLOWERS")
+	print("\033[92;1m  [3] ➤ CRACK FILE")
 	print("")
 	crack_select1()
 	
@@ -261,7 +261,7 @@ def crack_select1():
 	logo()
 	print("")
 	print("\033[93;1m  TOTAL IDS : \033[92;1m"+str(len(id)))
-	print("\033[92;1m  BRUTE HAS BEEN STARTED\x1b[0m")
+	print("\033[92;1m  PROCESS HAS BEEN STARTED\x1b[0m")
 	print("\033[94;1m  WAIT AND SEE \033[92;1m✘\033[91;1m✘\x1b[0m")
 	linex()
 	def main(arg):
@@ -454,9 +454,9 @@ def crack():
 	print("")
 	print("\t\033[93;1m  DIGIT PASS CRACKING")
 	print("")
-	print("\033[94;1m  [1] CRACK PUBLIC ID")
-	print("\033[93;1m  [2] CRACK FOLLOWERS")
-	print("\033[92;1m  [3] CRACK FILE")
+	print("\033[94;1m  [1]  ➤CRACK PUBLIC ID")
+	print("\033[93;1m  [2] ➤ CRACK FOLLOWERS")
+	print("\033[92;1m  [3] ➤CRACK FILE")
 	print("")
 	crack_select()
 
